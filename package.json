@@ -1,0 +1,17 @@
+{
+  "name": "vue-sfc-name-inference-issue",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "inspect-build": "esno etc/inspect"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.1.0",
+    "esno": "^0.14.1",
+    "vite": "^2.7.13"
+  },
+  "dependencies": {
+    "vue": "^3.2.30"
+  }
+}
